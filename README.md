@@ -6,7 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body style="background-image: url('https://github.com/nishkersh/nishkersh/blob/main/wallpaperflare.com_wallpaper%20(25).jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;">
+
     <h1 align="center">Hi 👋, I'm Reek Chatterjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
